@@ -267,11 +267,12 @@ body {
   -ms-user-select: none;
   user-select: none;
   flex: 1 1 auto;
-  overflow: visible;
+  overflow: hidden;
   margin-top: -20px;
-  margin-bottom: -46px;
+  margin-bottom: -19px;
   margin-left: -23px;
   pointer-events: all;
+  height: 110px;
 }
 
 #explorerLogo img {
